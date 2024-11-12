@@ -6,7 +6,6 @@ package com.mycompany.linear_search;
 
 import java.util.Scanner;
 
-//جستجوی خطی در آرایه
 ///Linear Search
 public class Linear_Search {
 
